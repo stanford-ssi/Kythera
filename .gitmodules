@@ -1,0 +1,6 @@
+[submodule "Kythera_Master"]
+	path = Kythera_Master
+	url = https://github.com/stanford-ssi/Kythera_Master.git
+[submodule "Kythera_Client"]
+	path = Kythera_Client
+	url = https://github.com/stanford-ssi/Kythera_Client.git
